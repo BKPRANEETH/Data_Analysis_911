@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-Of-911-Calls-Data
 
 ## 911 Exploratory Analysis Project
-For this project we'll analyze the 911 call dataset from Kaggle. The data contains the following fields:
+In this project I analyzed the 911 call dataset from Kaggle. The data contains the following fields:
 
 - lat : String variable, Latitude
 - lng: String variable, Longitude
